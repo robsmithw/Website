@@ -1,2 +1,2 @@
 # Website
-My personal website created using Flask and React
+My personal website created using HTML, CSS, and JS
