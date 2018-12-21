@@ -8,7 +8,13 @@
 #navBar{
     background-color: aqua;
     word-spacing: 30px;
+    text-align: center;
 }
 #Welcome{
     text-align: center;
+}
+#resume{
+    width: 820px;
+    margin-left: auto ;
+    margin-right: auto ;
 }
